@@ -1,0 +1,388 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1440px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 label {
+  left:0px;
+  width:100%;
+}
+#u0_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:13px;
+  height:13px;
+}
+#u0 {
+  border-width:0px;
+  position:absolute;
+  left:624px;
+  top:328px;
+  width:19px;
+  height:16px;
+  display:flex;
+  font-size:28px;
+}
+#u0 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 2px 0px 2px;
+  box-sizing:border-box;
+}
+#u0_img.selected {
+}
+#u0.selected {
+}
+#u0_img.disabled {
+}
+#u0.disabled {
+}
+#u0_img.selected.error {
+}
+#u0.selected.error {
+}
+#u0_img.selected.hint {
+}
+#u0.selected.hint {
+}
+#u0_img.selected.error.hint {
+}
+#u0.selected.error.hint {
+}
+#u0_img.mouseOver.selected {
+}
+#u0.mouseOver.selected {
+}
+#u0_img.mouseOver.selected.error {
+}
+#u0.mouseOver.selected.error {
+}
+#u0_img.mouseOver.selected.hint {
+}
+#u0.mouseOver.selected.hint {
+}
+#u0_img.mouseOver.selected.error.hint {
+}
+#u0.mouseOver.selected.error.hint {
+}
+#u0_img.mouseDown.selected {
+}
+#u0.mouseDown.selected {
+}
+#u0_img.mouseDown.selected.error {
+}
+#u0.mouseDown.selected.error {
+}
+#u0_img.mouseDown.selected.hint {
+}
+#u0.mouseDown.selected.hint {
+}
+#u0_img.mouseDown.selected.error.hint {
+}
+#u0.mouseDown.selected.error.hint {
+}
+#u0_img.mouseOver.mouseDown.selected {
+}
+#u0.mouseOver.mouseDown.selected {
+}
+#u0_img.mouseOver.mouseDown.selected.error {
+}
+#u0.mouseOver.mouseDown.selected.error {
+}
+#u0_img.mouseOver.mouseDown.selected.hint {
+}
+#u0.mouseOver.mouseDown.selected.hint {
+}
+#u0_img.mouseOver.mouseDown.selected.error.hint {
+}
+#u0.mouseOver.mouseDown.selected.error.hint {
+}
+#u0_img.focused.selected {
+}
+#u0.focused.selected {
+}
+#u0_img.focused.selected.error {
+}
+#u0.focused.selected.error {
+}
+#u0_img.focused.selected.hint {
+}
+#u0.focused.selected.hint {
+}
+#u0_img.focused.selected.error.hint {
+}
+#u0.focused.selected.error.hint {
+}
+#u0_img.selected.disabled {
+}
+#u0.selected.disabled {
+}
+#u0_img.selected.hint.disabled {
+}
+#u0.selected.hint.disabled {
+}
+#u0_img.selected.error.disabled {
+}
+#u0.selected.error.disabled {
+}
+#u0_img.selected.error.hint.disabled {
+}
+#u0.selected.error.hint.disabled {
+}
+#u0_text {
+  border-width:0px;
+  position:absolute;
+  left:13px;
+  top:0px;
+  width:2px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u0_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+  opacity:0;
+}
+#u1 label {
+  left:0px;
+  width:100%;
+}
+#u1_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:13px;
+  height:13px;
+}
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:624px;
+  top:373px;
+  width:19px;
+  height:16px;
+  display:flex;
+  font-size:28px;
+}
+#u1 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 2px 0px 2px;
+  box-sizing:border-box;
+}
+#u1_img.selected {
+}
+#u1.selected {
+}
+#u1_img.disabled {
+}
+#u1.disabled {
+}
+#u1_img.selected.error {
+}
+#u1.selected.error {
+}
+#u1_img.selected.hint {
+}
+#u1.selected.hint {
+}
+#u1_img.selected.error.hint {
+}
+#u1.selected.error.hint {
+}
+#u1_img.mouseOver.selected {
+}
+#u1.mouseOver.selected {
+}
+#u1_img.mouseOver.selected.error {
+}
+#u1.mouseOver.selected.error {
+}
+#u1_img.mouseOver.selected.hint {
+}
+#u1.mouseOver.selected.hint {
+}
+#u1_img.mouseOver.selected.error.hint {
+}
+#u1.mouseOver.selected.error.hint {
+}
+#u1_img.mouseDown.selected {
+}
+#u1.mouseDown.selected {
+}
+#u1_img.mouseDown.selected.error {
+}
+#u1.mouseDown.selected.error {
+}
+#u1_img.mouseDown.selected.hint {
+}
+#u1.mouseDown.selected.hint {
+}
+#u1_img.mouseDown.selected.error.hint {
+}
+#u1.mouseDown.selected.error.hint {
+}
+#u1_img.mouseOver.mouseDown.selected {
+}
+#u1.mouseOver.mouseDown.selected {
+}
+#u1_img.mouseOver.mouseDown.selected.error {
+}
+#u1.mouseOver.mouseDown.selected.error {
+}
+#u1_img.mouseOver.mouseDown.selected.hint {
+}
+#u1.mouseOver.mouseDown.selected.hint {
+}
+#u1_img.mouseOver.mouseDown.selected.error.hint {
+}
+#u1.mouseOver.mouseDown.selected.error.hint {
+}
+#u1_img.focused.selected {
+}
+#u1.focused.selected {
+}
+#u1_img.focused.selected.error {
+}
+#u1.focused.selected.error {
+}
+#u1_img.focused.selected.hint {
+}
+#u1.focused.selected.hint {
+}
+#u1_img.focused.selected.error.hint {
+}
+#u1.focused.selected.error.hint {
+}
+#u1_img.selected.disabled {
+}
+#u1.selected.disabled {
+}
+#u1_img.selected.hint.disabled {
+}
+#u1.selected.hint.disabled {
+}
+#u1_img.selected.error.disabled {
+}
+#u1.selected.error.disabled {
+}
+#u1_img.selected.error.hint.disabled {
+}
+#u1.selected.error.hint.disabled {
+}
+#u1_text {
+  border-width:0px;
+  position:absolute;
+  left:13px;
+  top:0px;
+  width:2px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+  opacity:0;
+}
+#u2_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:84px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:658px;
+  top:312px;
+  width:84px;
+  height:32px;
+  display:flex;
+  font-size:28px;
+}
+#u2 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u3_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:84px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+}
+#u3 {
+  border-width:0px;
+  position:absolute;
+  left:658px;
+  top:357px;
+  width:84px;
+  height:32px;
+  display:flex;
+  font-size:28px;
+}
+#u3 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u3_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
